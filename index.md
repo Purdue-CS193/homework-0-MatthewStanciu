@@ -1,4 +1,4 @@
-# 👁👁 Matthew Stanciu's First CS193 Homework
+# 👁 👁 Matthew Stanciu's First CS193 Homework
 
 👋 Here are a few things I love about CS193:
 
